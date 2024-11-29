@@ -1,0 +1,2 @@
+Avoid posting your keys In the commit 
+It could leak to anyone seeing the code
